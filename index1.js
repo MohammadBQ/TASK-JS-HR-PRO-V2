@@ -78,7 +78,7 @@ const newManager = new Manager()
 
 newBadge.forEach()
 
- const 
+ 
 //Step 3: Create Employee and Manager Instances
 
 //1. Create instances of the Employee class using `map` and store them into a variable called `employees` using `employeesJSON`.
